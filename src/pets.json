@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "name": "Team 1",
+    "picture": "images/na.jpeg",
+    "team_size": 3,
+    "breed": "Team 1",
+    "location": "Chicago, IL"
+  },
+  {
+    "id": 1,
+    "name": "Team 2",
+    "picture": "images/na.jpeg",
+    "team_size": 3,
+    "breed": "Team 2",
+    "location": "Chicago, IL"
+  },
+  {
+    "id": 2,
+    "name": "Team 3",
+    "picture": "images/na.jpeg",
+    "team_size": 3,
+    "breed": "Team 3",
+    "location": "Chicago, IL"
+  },
+  {
+    "id": 3,
+    "name": "Team 4",
+    "picture": "images/na.jpeg",
+    "team_size": 3,
+    "breed": "Team 4",
+    "location": "Chicago, IL"
+  }
+]
